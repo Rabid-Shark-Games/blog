@@ -53,14 +53,23 @@ Tiny Games is weird and I will not explain it.
 TheThwomp's worked on their own game recently, here's an interview. You can find it on our Discord.
 
 > C: Hello!
+> 
 > T: Hi
+> 
 > C: So, you made the square game, righ-
+> 
 > T: Dice Battles the Resurgance?
+> 
 > C: Yeah-
+> 
 > T: You dare insult my game? I'll ??? contact ???
+> 
 > C: Uhm
+> 
 > T: You made a mistake.
+> 
 > C: o-ok thank yo-
+> 
 > T: I will be getting the lawyers after the basement.
 
 I've been working on my own game, too. Though currently it's literally just yellow. Eventually it'll be a sandbox-survival game that heavily focuses on multiplayer.
